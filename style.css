@@ -1,0 +1,8 @@
+taba{
+    table-layout: fixed;
+    width: 1000px;
+    border-collapse: separate;  
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+}
