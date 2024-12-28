@@ -1,8 +1,55 @@
-.taba{
-    table-layout: fixed;
-    width: 1000px;
-    border-collapse: separate;  
-    background-color: brown;
-    text-align: center;
-    color: aliceblue;
+
+.conteiner {
+   text-align: center;  
+   border: 1px solid;
+   padding-bottom: 40px;
+   background: rgb(236, 230, 238);
+   margin-left: 100px;
+   
+   
+   /*border-radius: 13px;*/
+   border-color: black;
+   width: 18%;
 }
+   .cal {
+      display: flex;
+      padding-left: 18px;
+      font-size: medium;
+    
+   }
+   .success {
+      margin-left: 128px;
+      margin-top: 15px;
+      margin-bottom: 20px;
+      padding: 2px 5px 0px 5px;
+   }
+
+.cal-res {
+   border: 1px solid;  
+   border-radius: 4px;
+   font-size: 30px;
+   margin-left: 20px;
+   margin-right: 20px;
+   padding-top: 0px;
+   padding-bottom: 0px;
+   margin-bottom: 18px;
+   background: white;
+}
+   
+.d-flex {
+ margin-top: 5px;
+box-sizing: border-box;
+ 
+}
+
+.btn-success {
+   border-color: black;
+   width: 20%;
+   border-radius: 7px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   background: rgb(185, 239, 236);
+}
+
+
+
